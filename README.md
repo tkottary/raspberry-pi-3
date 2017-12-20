@@ -8,6 +8,12 @@ Tweaks done on RPI3
  
  3.Fix date time
  
+ - Run: sudo apt-get ntp
+- Run: sudo apt-get ntpdate
+- To sync time: sudo ntpdate-debian or sudo ntpdate server 1.us.pool.ntp.org
+- To view a date stamp run: date
+
+ 
  https://github.com/rlancaste/AstroPi3
  
  https://github.com/rkaczorek/astroberry-server/
