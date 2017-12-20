@@ -12,3 +12,8 @@ Tweaks done on RPI3
  
  https://github.com/rkaczorek/astroberry-server/
  
+To disable powermanagement
+
+Run : iwconfig
+sudo nano  /etc/network/interfaces 
+add line: wireless-power off
