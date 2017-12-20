@@ -15,5 +15,7 @@ Tweaks done on RPI3
 To disable powermanagement
 
 Run : iwconfig
+
 sudo nano  /etc/network/interfaces 
+
 add line: wireless-power off
