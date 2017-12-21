@@ -25,3 +25,6 @@ Run : iwconfig
 sudo nano  /etc/network/interfaces 
 
 add line: wireless-power off
+
+
+https://www.raspberrypi.org/forums/viewtopic.php?f=36&t=167510
