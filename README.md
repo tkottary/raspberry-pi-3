@@ -33,3 +33,6 @@ https://raspberrypi.stackexchange.com/questions/15944/can-i-directly-connect-to-
 
 https://thepi.io/how-to-use-your-raspberry-pi-as-a-wireless-access-point/
 http://raspberry-at-home.com/hotspot-wifi-access-point/
+
+
+https://lcdev.dk/2012/11/18/raspberry-pi-tutorial-connect-to-wifi-or-create-an-encrypted-dhcp-enabled-ad-hoc-network-as-fallback/#comment-640
