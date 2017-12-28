@@ -36,3 +36,5 @@ http://raspberry-at-home.com/hotspot-wifi-access-point/
 
 
 https://lcdev.dk/2012/11/18/raspberry-pi-tutorial-connect-to-wifi-or-create-an-encrypted-dhcp-enabled-ad-hoc-network-as-fallback/#comment-640
+
+https://superuser.com/questions/1130195/linux-make-hotspot-without-bridging-internet-access-with-secondary-usb-wi-fi-d
