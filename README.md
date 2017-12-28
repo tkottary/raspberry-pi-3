@@ -47,3 +47,21 @@ https://github.com/ulno/create_ap
 
 https://adamscheller.com/systems-administration/rtl8192cu-fix-wifi/
 
+
+4 To start VNC for RPI3 or tinker
+
+sudo apt-get -y install novnc tightvncserver
+cd ~
+mkdir .config;cd .config
+mkdir autostart;cd autostart
+nano tightvnc.desktop
+
+[Desktop Entry]
+Type=Application
+Name=TightVNC
+Exec=vncserver :1
+StartupNotify=false
+save and reboot
+
+Ref : https://learn.adafruit.com/adafruit-raspberry-pi-lesson-7-remote-control-with-vnc/running-vncserver-at-startup
+
