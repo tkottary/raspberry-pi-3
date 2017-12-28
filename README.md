@@ -44,3 +44,6 @@ https://superuser.com/questions/1130195/linux-make-hotspot-without-bridging-inte
 
 
 https://github.com/ulno/create_ap
+
+https://adamscheller.com/systems-administration/rtl8192cu-fix-wifi/
+
