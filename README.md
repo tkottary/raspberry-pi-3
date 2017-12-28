@@ -29,3 +29,7 @@ add line: wireless-power off
 
 https://www.raspberrypi.org/forums/viewtopic.php?f=36&t=167510
 https://www.tinkerboarding.co.uk/forum/showthread.php?tid=66
+https://raspberrypi.stackexchange.com/questions/15944/can-i-directly-connect-to-my-pi-wirelessly-without-a-router
+
+https://thepi.io/how-to-use-your-raspberry-pi-as-a-wireless-access-point/
+http://raspberry-at-home.com/hotspot-wifi-access-point/
