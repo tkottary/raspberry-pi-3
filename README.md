@@ -65,3 +65,7 @@ save and reboot
 
 Ref : https://learn.adafruit.com/adafruit-raspberry-pi-lesson-7-remote-control-with-vnc/running-vncserver-at-startup
 
+Fix mouse issue on Tinkerboard /Ubuntu xenail
+
+xset m 1/2 4
+
