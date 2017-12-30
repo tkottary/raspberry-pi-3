@@ -75,3 +75,8 @@ sudo apt-get install xfonts-75dpi
 sudo apt-get install xfonts-100dpi
 sudo apt-get install xfonts-base
 run tightvncserver, set password, connect with whatever vnc client you want.
+
+
+sudo nano /etc/rc.local
+
+#add a line of su – tkoy -c ‘/usr/bin/tightvncserver :1’
