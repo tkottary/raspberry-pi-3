@@ -69,3 +69,9 @@ Fix mouse issue on Tinkerboard /Ubuntu xenail
 
 xset m 1/2 4
 
+
+sudo apt install tightvncserver
+sudo apt-get install xfonts-75dpi
+sudo apt-get install xfonts-100dpi
+sudo apt-get install xfonts-base
+run tightvncserver, set password, connect with whatever vnc client you want.
