@@ -80,3 +80,18 @@ run tightvncserver, set password, connect with whatever vnc client you want.
 sudo nano /etc/rc.local
 
 #add a line of su – tkoy -c ‘/usr/bin/tightvncserver :1’
+
+
+#assign static ip to RPi3 to connect via Ethernet port directly
+
+Configure a static network adddress on your Pi in /etc/network/interfaces
+
+auto eth0
+iface eth0 inet static
+        address 10.1.1.30
+        netmask 255.255.255.0
+        gateway 10.1.1.1
+        
+        (gateway was kept same in windows 10 as well) for the 2nd ethernet port.
+        
+        
