@@ -19,6 +19,7 @@ then change the HCTOSYS_DEVICE=rtc0 to be HCTOSYS_DEVICE=rtc1
 3)In /lib/udev/rules.d/50-udev-default.rules change the SUBSYSTEM=="rtc" line to:
 
 SUBSYSTEM=="rtc", KERNEL=="rtc1", SYMLINK+="rtc", OPTIONS+="link_priority=-100"
+
 4) In your hwclock udev rule make sure you have (/lib/udev/rules.d/85-hwclock.rules):
 
 KERNEL=="rtc1", RUN+="/lib/udev/hwclock-set $root/$name"
