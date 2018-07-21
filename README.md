@@ -1,4 +1,4 @@
-Tweaks done on RPI3 
+##### Tweaks done on RPI3 
 
 1 Install Zram 
 
@@ -46,7 +46,7 @@ https://superuser.com/questions/1130195/linux-make-hotspot-without-bridging-inte
 https://github.com/ulno/create_ap
 
 https://adamscheller.com/systems-administration/rtl8192cu-fix-wifi/
-
+ 
 
 4 To start VNC for RPI3 or tinker
 
