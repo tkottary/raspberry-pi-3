@@ -25,4 +25,4 @@ Port 11882
 Connection Type to TCP
 ![Ekos Connection Setting](https://github.com/tkottary/raspberry-pi-3/blob/master/kstars2.jpg)
 
-Connect and Enjoy the mount
+6. Press Connect from Main Control and Enjoy the mount. This will be autosaved next time you connect
