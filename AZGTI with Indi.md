@@ -1,8 +1,10 @@
-### Pre requistes:
+### Pre requistes
 * Synscan or SynScan Pro app on iOS or Android Device.
 * Skywatcher AZGTI
 * Laptop/Desktop/Raspberry Pi(SBC) with Kstars& Indi.
  
+#### Steps to Connect
+
 1. Power on  the mount , you should see red light blinking and wifi signal with synscan_XXXX)
 
 2. Connect the iOS/Android device to mount wifi. 
