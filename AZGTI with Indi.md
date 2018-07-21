@@ -1,7 +1,7 @@
-Pre requistes:
- Synscan or SynScan Pro app on iOS or Android Device.
- Skywatcher AZGTI
- Laptop/Desktop/Raspberry Pi(SBC) with Kstars& Indi.
+### Pre requistes:
+* Synscan or SynScan Pro app on iOS or Android Device.
+* Skywatcher AZGTI
+* Laptop/Desktop/Raspberry Pi(SBC) with Kstars& Indi.
  
 1. Start the mount , you should see red light blinking and wifi signal with synscan_XXXX)
 
@@ -15,8 +15,9 @@ Pre requistes:
 
 4. Launch Kstars and choose SynScan as the indi mount driver.
 ![Indi Mount Driver](https://github.com/tkottary/raspberry-pi-3/blob/master/kstars1.jpg)
-4. Configure the options as below.
-Conncection mode as ethernet
+
+5. Configure the connection options  as below.
+Connection mode as Ethernet
 IP address to 192.168.4.2 ( IP address of the device having synscan app)
 Port 11882
 Connection Type to TCP
