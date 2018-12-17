@@ -95,3 +95,5 @@ iface eth0 inet static
         (gateway was kept same in windows 10 as well) for the 2nd ethernet port.
         
         
+### update time from GPS
+sudo setcap cap_sys_time=ep /bin/date
