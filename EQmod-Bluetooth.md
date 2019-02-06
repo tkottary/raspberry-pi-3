@@ -13,6 +13,16 @@ To get mac address of bluetooth run below on console.
 
 sudo hciconfig
 
+#### copy this to text file and save it as Bluetooth-EQmod.sh
+
+#!/bin/bash
+
+sudo rfcomm bind hci0 XX:XX:XX:XX:XX:XX 1 &
+sleep 5
+sudo chown astroberry /dev/rfcomm0
+
+
+
 ######  4 Now run the attached script by 
 
     replacing XX:XX:XX:XX:XX:XX  with your mac address.
